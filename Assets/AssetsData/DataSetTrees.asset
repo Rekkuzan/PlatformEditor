@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0af842fbbd52c148863eab3ca4daea4, type: 3}
+  m_Name: DataSetTrees
+  m_EditorClassIdentifier: 
+  Assets:
+  - NameId: palm
+    PrefabReference: {fileID: 2130515642799746694, guid: bf6eda5d553ee58468e9a2621fc78210,
+      type: 3}
+    ReadableName: Palm
+  - NameId: palm-high
+    PrefabReference: {fileID: 4784291188105466950, guid: 1317ead64142851479adaf08bd5b59a9,
+      type: 3}
+    ReadableName: Palm High
+  - NameId: tree-christmas
+    PrefabReference: {fileID: 8597434902287188550, guid: 24d93b9e64e3fb640baa11557fbdb211,
+      type: 3}
+    ReadableName: Tree Christmas
+  - NameId: tree-conifer
+    PrefabReference: {fileID: 5135545527877043284, guid: 62dba3d1061083d43bb274ccdc595332,
+      type: 3}
+    ReadableName: Tree Conifer
+  - NameId: tree-forest
+    PrefabReference: {fileID: 6573528408554209708, guid: aa30703ec60dea04e9bac426042b32c9,
+      type: 3}
+    ReadableName: Tree Forest
+  - NameId: tree-round
+    PrefabReference: {fileID: 8312128859788405910, guid: 641ac8bd8b9a78a4fa37238414d174a5,
+      type: 3}
+    ReadableName: Tree Round
+  - NameId: tree
+    PrefabReference: {fileID: 1825114506260039722, guid: 1c82d200e058953499d67f6865f09b7b,
+      type: 3}
+    ReadableName: Tree
+  - NameId: tree-lime_red
+    PrefabReference: {fileID: 1649744946416930856, guid: 5654e6c7b5a57054abab749d17b76c10,
+      type: 3}
+    ReadableName: Tree Lime_Red
+  - NameId: tree-old
+    PrefabReference: {fileID: 3986591617203759932, guid: 81332695cc3efac49abdc72929e34109,
+      type: 3}
+    ReadableName: Tree Old

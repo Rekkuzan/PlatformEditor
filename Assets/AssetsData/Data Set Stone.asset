@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0af842fbbd52c148863eab3ca4daea4, type: 3}
+  m_Name: Data Set Stone
+  m_EditorClassIdentifier: 
+  Assets:
+  - NameId: stone-round_brown
+    PrefabReference: {fileID: 8873083071757925577, guid: a7d9e8f52891e4f4e880cb3a7b1f4f72,
+      type: 3}
+    ReadableName: Stone Round Brown
+  - NameId: stone-round_white
+    PrefabReference: {fileID: 4036133004932419483, guid: 4034a5f29ef1c2f4980a59e6650a7494,
+      type: 3}
+    ReadableName: Stone Round White
+  - NameId: rock-pillar
+    PrefabReference: {fileID: 5750112159178103632, guid: 4fea0be7c0ae86d42bc17956d4005caf,
+      type: 3}
+    ReadableName: Rock Pillar
+  - NameId: gems
+    PrefabReference: {fileID: 8631083707691974758, guid: bcb891a2181af524cb98e8580855f011,
+      type: 3}
+    ReadableName: Gems
+  - NameId: stalags
+    PrefabReference: {fileID: 4444311264893749642, guid: be76cf2ceda3fd84d962ddf132a5c5d3,
+      type: 3}
+    ReadableName: Stalags
+  - NameId: stone-diamond
+    PrefabReference: {fileID: 5208714675145230742, guid: 70c1f27d2dc67be4094e89eac41bbabe,
+      type: 3}
+    ReadableName: Stone Diamond

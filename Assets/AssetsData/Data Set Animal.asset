@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0af842fbbd52c148863eab3ca4daea4, type: 3}
+  m_Name: Data Set Animal
+  m_EditorClassIdentifier: 
+  Assets:
+  - NameId: frog
+    PrefabReference: {fileID: 5136732800858411202, guid: 5928a3906fd84c94e8f0f33d0e52256a,
+      type: 3}
+    ReadableName: Frog
+  - NameId: penguin
+    PrefabReference: {fileID: 8344280386615636193, guid: 3a34339a48a170e47bbf1d041d53099a,
+      type: 3}
+    ReadableName: Penguin
+  - NameId: t-rex
+    PrefabReference: {fileID: 474571402876692140, guid: 80e979aae7c01e04c902c89c1078abd7,
+      type: 3}
+    ReadableName: T Rex
+  - NameId: rat
+    PrefabReference: {fileID: 2174820255053112120, guid: b2d06e66649c55847b712334a10de5dd,
+      type: 3}
+    ReadableName: Rat
+  - NameId: cow
+    PrefabReference: {fileID: 6468272811949473623, guid: 1d8349cab46b78948b93609cc61b3156,
+      type: 3}
+    ReadableName: Cow
+  - NameId: elephant
+    PrefabReference: {fileID: 5968724708121947025, guid: e02b4efe4597e4b4ab61d82f6e832175,
+      type: 3}
+    ReadableName: Elephant
+  - NameId: bear_brown
+    PrefabReference: {fileID: 8187165737858868416, guid: 2f9cc897f6b8a4946a2a0d4918553765,
+      type: 3}
+    ReadableName: Bear Brown
